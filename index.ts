@@ -14,4 +14,4 @@ const questions = [
 const answer = await inquirer.prompt(questions);
 console.log("\n Thanks for your precious time.");
 console.log(answer);
-console.log("\nAbove mentioned data collect just used for education perpose only.")
+console.log("\nAbove mentioned data collected for education perpose only.")
